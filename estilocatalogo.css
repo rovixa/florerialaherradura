@@ -91,7 +91,7 @@ body{
 	margin-right: .50em;
 	cursor: pointer;
 	transition: .3s ease all;
-	font-size: 1.12em;
+	font-size: .8em;
 }
 .items span.active,
 .items span:hover{
