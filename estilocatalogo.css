@@ -1,6 +1,6 @@
 :root {
 	--rojo:  rgb(170, 134, 15);
-	--fondo: #ffffff;
+	--fondo: url(img/base8.jpg);
 	/* text-shadow: 1px 2px 2px rgb(122, 121, 121); */
 }
 
